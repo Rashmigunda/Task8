@@ -1,0 +1,9 @@
+ Sales Insights Summary
+📈 Monthly Sales Trend
+Sales showed noticeable peaks around November and December, likely due to holiday season promotions, indicating a strong seasonal sales pattern.
+
+🌎 Regional Performance
+The West region had the highest overall sales, followed by East, suggesting stronger customer demand or higher population density in those areas.
+
+📦 Category Sales Split
+Technology products contributed the largest portion of sales, followed by Furniture and Office Supplies. This suggests a priority focus on tech-related products for future campaigns or inventory decisions.
